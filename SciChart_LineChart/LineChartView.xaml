@@ -141,7 +141,7 @@
 
                 <s:SciChartSurface.Annotations>
 
-                  <!--  <s:TextAnnotation x:Name="buyTxtAnnot"
+                    <s:TextAnnotation x:Name="buyTxtAnnot"
                                       FontSize="14"
                                       Text="Buy"
                                       Y1="11533"
@@ -159,7 +159,7 @@
                                      BorderThickness="1"
                                      CornerRadius="2"
                                      Y1="11537"
-                                     Y2="12819" /> -->
+                                     Y2="12819" /> 
 
                 </s:SciChartSurface.Annotations>
 
